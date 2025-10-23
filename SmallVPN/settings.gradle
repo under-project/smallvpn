@@ -1,0 +1,2 @@
+include ':app', ':tun2socks'
+rootProject.name='Small VPN'
